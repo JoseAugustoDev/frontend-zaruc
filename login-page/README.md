@@ -13,3 +13,5 @@
 | <kbd>/signup</kbd>     | Pagina de cadastro
 | <kbd>/login</kbd>     | Pagina de login
 | <kbd>/user</kbd>     | Resposta
+
+Inspirado no projeto da Fernanda Kipper: https://github.com/Fernanda-Kipper/login-page
